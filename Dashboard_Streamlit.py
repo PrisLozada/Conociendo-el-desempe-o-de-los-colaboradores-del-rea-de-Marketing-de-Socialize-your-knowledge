@@ -64,8 +64,10 @@ st.plotly_chart(figHD)
 # Conclusión
 
 Las gráficas mostradas permiten observar que:
-1. El promedio de horas trabajadas varía según el género del empleado.
-2. Existe una relación entre la edad y el salario de los empleados.
-3. El puntaje de desempeño está relacionado con las horas trabajadas.
+1. El desempeño de los empleados está concentrado en la calificación 3
+2. El promedio de horas trabajadas varía según el género del empleado.
+3. Existe una relación entre la edad y el salario de los empleados.
+4. El puntaje de desempeño está relacionado con las horas trabajadas.
+
 Estos análisis ayudan a identificar patrones en el desempeño laboral de los empleados.
 '''
